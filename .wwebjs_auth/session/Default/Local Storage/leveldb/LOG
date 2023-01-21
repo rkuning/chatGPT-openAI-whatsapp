@@ -1,0 +1,8 @@
+2023/01/21-21:24:52.483 2630 Creating DB D:\coding-notwork\openai-waweb\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2023/01/21-21:24:52.514 2630 Reusing MANIFEST D:\coding-notwork\openai-waweb\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/01/21-22:04:53.545 3d4c Level-0 table #5: started
+2023/01/21-22:04:53.554 3d4c Level-0 table #5: 26861 bytes OK
+2023/01/21-22:04:53.562 3d4c Delete type=0 #3
+2023/01/21-23:20:53.543 d40 Level-0 table #7: started
+2023/01/21-23:20:53.548 d40 Level-0 table #7: 25663 bytes OK
+2023/01/21-23:20:53.556 d40 Delete type=0 #4
