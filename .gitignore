@@ -2,3 +2,5 @@ node_modules
 package-lock.json
 .env
 .eslintrc.json
+build
+.wwebjs_auth

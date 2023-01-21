@@ -12,7 +12,7 @@
 Install [NodeJS](https://nodejs.org/en/download/) dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 
 ```bash
-$ git clone https://github.com/rkuning/whatsapp-openAI
+$ git clone https://github.com/rkuning/chatGPT-openAI-whatsapp
 $ cd whatsapp-openAI
 $ npm install
 $ npm run start:dev
